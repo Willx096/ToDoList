@@ -1,0 +1,23 @@
+span.papelera{
+    color: red;
+  }
+  .colorPrueba{
+    color: rgb(169, 103, 23);
+  }
+  
+  tr.trabajo{
+    background-color: blue;
+  
+  }
+  tr.personal{
+    background-color: red;
+    
+  }
+  tr.urgente{
+    background-color: green;
+    
+  }
+  tr.familia{
+    background-color: yellow;
+    
+  }
